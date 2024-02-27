@@ -1,0 +1,47 @@
+@charset "UTF-8";
+div {
+    margin-left: 15%;
+    width: 70%;
+    background-color: #FFDFE0;
+}
+
+article {
+    clear: both;
+}
+
+body {
+    background-color: #C8AED5;
+}
+.cat4 {
+    width: 50%;
+   
+    height: auto;
+}
+
+.cat2 {
+    width: 30%;
+    float: right;
+    height: auto;
+}
+
+.cat3 {
+    width: 50%;
+    float: left;
+    height: auto;
+}
+.bannerpic {
+}
+.bannerpic {
+    width: 100%;
+    height: 15%;
+	
+}
+p {
+}
+section article p {
+    font-family: sans-serif;
+}
+
+.catt {
+    text-align: center;
+}
